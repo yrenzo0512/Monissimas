@@ -1,0 +1,11 @@
+
+d
+java:S1192."IDefine a constant instead of duplicating this literal "CardList" 4 times.(Í½²½ùÿÿÿÿ
+…
+java:S13193"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(—íª$
+~
+java:S13196"hThe type of "listFood" should be an interface such as "List" rather than the implementation "ArrayList".(·¯°±
+~
+java:S1319?"hThe type of "listFood" should be an interface such as "List" rather than the implementation "ArrayList".(µÙŞ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î˜åŸùÿÿÿÿ
+b	java:S1003"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—íª$

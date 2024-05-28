@@ -1,0 +1,28 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(ÒõÆÛıÿÿÿÿ
+C
+java:S16046"(Make this anonymous inner class a lambda(¸¬ì×ÿÿÿÿÿ
+>
+java:S1604_"(Make this anonymous inner class a lambda(Ì¬¿À
+C
+java:S1604e"(Make this anonymous inner class a lambda(òŠÛ£úÿÿÿÿ
+C
+java:S1604k"(Make this anonymous inner class a lambda(‡ïïÛüÿÿÿÿ
+C
+java:S1604q"(Make this anonymous inner class a lambda(·éäúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ü³®şÿÿÿÿ
+^
+java:S1659 "CDeclare "taxTxt" and all following declarations on a separate line.(ë½úòÿÿÿÿÿ
+o
+java:S1450$"YRemove the "btnComprar" field and declare it as a local variable in the relevant methods.(Üè«¹
+k
+java:S1450#"URemove the "object" field and declare it as a local variable in the relevant methods.(×…€‹
+h
+java:S1450!"RRemove the "tax" field and declare it as a local variable in the relevant methods.(ÜˆŒò
+O
+java:S18742":Remove this use of "getParcelableExtra"; it is deprecated.(¼Ÿ®
+B
+java:S1602|",Remove useless curly braces around statement(¡‹åß
+@
+java:S1068#"*Remove this unused "object" private field.(×…€‹

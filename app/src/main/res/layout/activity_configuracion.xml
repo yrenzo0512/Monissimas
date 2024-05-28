@@ -1,0 +1,299 @@
+<androidx.drawerlayout.widget.DrawerLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:openDrawer="start"
+    tools:context=".Activity.ConfiguracionActivity">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+                <ScrollView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:contentDescription="@string/app_name"
+                    tools:layout_editor_absoluteX="1dp"
+                    tools:layout_editor_absoluteY="1dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    tools:ignore="UseCompoundDrawables">
+                <ImageView
+                    android:id="@+id/imageView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/logoti" />
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp"
+                    android:baselineAligned="false"
+                    android:fontFamily="sans-serif-condensed-medium"
+                    android:text="Experimenta la excelencia en servicios de belleza y bienestar en MONISSIMAS. Nuestro equipo de profesionales altamente capacitados te brindará una experiencia única, fusionando técnicas tradicionales con las últimas tendencias en el mundo de la belleza y el cuidado personal."
+                    android:textAlignment="center"
+                    android:textColor="#000000"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/textView48"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:fontFamily="sans-serif-condensed-medium"
+
+                    android:text="Ubicación: Jiron Tarapoto 526, Plaza de Tarapoto"
+                    android:textAlignment="center"
+                    android:textSize="15sp" />
+                        <TextView
+                            android:id="@+id/textView40"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-condensed-medium"
+                            android:text="Horario de Atención:"
+                            android:textAlignment="center"
+                            android:textSize="15sp" />
+                        <TextView
+                            android:id="@+id/textView43"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Lunes a Viernes: 9:00 am - 7:00 pm"
+                            android:textAlignment="center"
+                            android:textSize="15sp" />
+                        <TextView
+                            android:id="@+id/textView49"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Sábados: 10:00 am - 5:00 pm"
+                            android:textAlignment="center"
+                            android:textSize="15sp" />
+
+                        <TextView
+                            android:id="@+id/textView46"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:fontFamily="sans-serif-condensed-medium"
+                            android:text="Contactos:"
+                            android:textAlignment="center"
+                            android:textSize="15sp" />
+                        <TextView
+                            android:id="@+id/textView67"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="918-575-251"
+                            android:textAlignment="center"
+                            android:textSize="15sp" />
+                        <TextView
+                            android:id="@+id/textView68"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:fontFamily="sans-serif-condensed-medium"
+                            android:text="Correo: monissimasSpa@gmail.com"
+                            android:textAlignment="center"
+                            android:textSize="15sp" />
+
+                        <Button
+                            android:id="@+id/BTNRegistrar"
+                            android:layout_width="234dp"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_margin="20dp"
+                            android:textColor="#000"
+                            android:hint="Aceptar"
+                            android:onClick="BTNRegistrar"
+                            android:text="CERRAR SESION"
+                            android:backgroundTint="#EDD2ED"
+                            android:textAlignment="center" />
+                </LinearLayout>
+                </ScrollView>
+
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+                    android:id="@+id/AJUSTES"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginEnd="24dp"
+                    android:background="@color/background"
+                    android:clickable="true"
+                    android:foregroundTint="#FEFEFE"
+                    android:tint="@color/white"
+                    app:backgroundTint="@color/background"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:layout_constraintVertical_bias="0.896"
+                    app:rippleColor="#9C27B0"
+                    app:srcCompat="@drawable/baseline_settings_24"/>
+
+                <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:id="@+id/FABAgregarUsuario"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="52dp"
+            android:layout_marginBottom="16dp"
+                    app:backgroundTint="@color/inactive"
+                    android:clickable="true"
+                    app:srcCompat="@drawable/baseline_manage_accounts_24"
+            app:layout_constraintBottom_toTopOf="@+id/AJUSTES"
+            app:layout_constraintEnd_toEndOf="parent" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <ScrollView
+            android:id="@+id/scrollView"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            app:layout_constraintBottom_toTopOf="@+id/coordinatorLayout"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+        </ScrollView>
+        <androidx.coordinatorlayout.widget.CoordinatorLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+                <com.google.android.material.bottomappbar.BottomAppBar
+                    android:id="@+id/app_bar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="bottom"
+                    android:backgroundTint="#f6f6f6"
+                    app:fabCradleMargin="8dp"
+                    app:fabCradleRoundedCornerRadius="50dp"
+                    app:fabCradleVerticalOffset="6dp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:orientation="horizontal">
+
+                                <LinearLayout
+                                    android:id="@+id/homeBtn"
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="0.2"
+                                    android:orientation="vertical">
+
+                                        <ImageView
+                                            android:id="@+id/imageView5"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="1"
+                                            app:srcCompat="@drawable/baseline_home_24" />
+
+                                        <TextView
+                                            android:id="@+id/textView11"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:text="Home"
+                                            android:textAlignment="center"
+                                            android:textColor="#676767"
+                                            android:textSize="12sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/citasBtn"
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="0.2"
+                                    android:orientation="vertical">
+
+                                        <ImageView
+                                            android:id="@+id/imgCitas"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            app:srcCompat="@drawable/baseline_attach_email_24" />
+
+                                        <TextView
+                                            android:id="@+id/txtCitas"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:text="Citas"
+                                            android:textAlignment="center"
+                                            android:textColor="#676767"
+                                            android:textSize="12sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/cartBtn"
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="0.2"
+                                    android:orientation="vertical"
+                                    android:visibility="visible">
+
+                                        <ImageView
+                                            android:id="@+id/imgCompras"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="1"
+                                            app:srcCompat="@drawable/baseline_shopping_cart_24" />
+
+                                        <TextView
+                                            android:id="@+id/txtCompras"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:text="Compras"
+                                            android:textAlignment="center"
+                                            android:textColor="#676767"
+                                            android:textSize="12sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/btnservicio"
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="0.2"
+                                    android:orientation="vertical">
+
+                                        <ImageView
+                                            android:id="@+id/imageView51"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="1"
+                                            app:srcCompat="@drawable/baseline_design_services_24" />
+
+                                        <TextView
+                                            android:id="@+id/textView110"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:text="Servicios"
+                                            android:textAlignment="center"
+                                            android:textColor="#676767"
+                                            android:textSize="12sp" />
+                                </LinearLayout>
+
+                                <LinearLayout
+                                    android:id="@+id/BtnAjustes"
+                                    android:layout_width="0dp"
+                                    android:layout_height="match_parent"
+                                    android:layout_weight="0.2"
+                                    android:orientation="vertical">
+
+                                        <ImageView
+                                            android:id="@+id/imageView55"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:layout_weight="1"
+                                            app:srcCompat="@drawable/baseline_settings_24" />
+
+                                        <TextView
+                                            android:id="@+id/textView115"
+                                            android:layout_width="match_parent"
+                                            android:layout_height="wrap_content"
+                                            android:text="Ajustes"
+                                            android:textAlignment="center"
+                                            android:textColor="#676767"
+                                            android:textSize="12sp" />
+                                </LinearLayout>
+                        </LinearLayout>
+                </com.google.android.material.bottomappbar.BottomAppBar>
+        </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</androidx.drawerlayout.widget.DrawerLayout>

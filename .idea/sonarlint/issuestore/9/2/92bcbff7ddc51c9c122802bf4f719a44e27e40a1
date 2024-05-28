@@ -1,0 +1,8 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ü³®þÿÿÿÿ
+^
+java:S1659"CDeclare "feeTxt" and all following declarations on a separate line.(Ô¨¢Úùÿÿÿÿ
+[
+java:S1659"EDeclare "minusBtn" and all following declarations on a separate line.(óèä®
+W
+java:S1874&"<Remove this use of "getSerializableExtra"; it is deprecated.(»ó”­ÿÿÿÿÿ

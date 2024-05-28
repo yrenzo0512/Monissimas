@@ -1,0 +1,10 @@
+
+‹
+java:S1319"pThe type of "listFoodSelected" should be an interface such as "List" rather than the implementation "ArrayList".(θ•Δϊÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’Ϊσ­
+?
+java:S1659M")Declare "feeEachItem" on a separate line.(Ώχ°±
+`
+java:S1659N"EDeclare "plusItem" and all following declarations on a separate line.(ζ’Αρώÿÿÿÿ
+7
+java:S1659O"!Declare "num" on a separate line.(ÿέΆ²

@@ -1,0 +1,24 @@
+
+e	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅíÁz
+k	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûµµòüÿÿÿÿ
+C
+java:S1604!"(Make this anonymous inner class a lambda(ëö ¯üÿÿÿÿ
+>
+java:S16041"(Make this anonymous inner class a lambda(Ç½€ô
+>
+java:S1604A"(Make this anonymous inner class a lambda(Ì¬¿À
+C
+java:S1604H"(Make this anonymous inner class a lambda(òŠÛ£úÿÿÿÿ
+C
+java:S1604O"(Make this anonymous inner class a lambda(‡ïïÛüÿÿÿÿ
+C
+java:S1604V"(Make this anonymous inner class a lambda(·éäúÿÿÿÿ
+C
+java:S1604]"(Make this anonymous inner class a lambda(æƒŸúÿÿÿÿ
+C
+java:S1604g"(Make this anonymous inner class a lambda(¾äÈÂøÿÿÿÿ
+>
+java:S5411$"(Use a primitive boolean expression here.(Ã›Ï
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ü³®şÿÿÿÿ
+G
+java:S1659",Declare "agregarUsuario" on a separate line.(çˆùÿÿÿÿ

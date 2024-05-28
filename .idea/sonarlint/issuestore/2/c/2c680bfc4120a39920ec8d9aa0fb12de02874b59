@@ -1,0 +1,50 @@
+
+a	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+p
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¼§ù
+p
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¼§ù
+C
+java:S1604h"(Make this anonymous inner class a lambda(áö¤Âùÿÿÿÿ
+>
+java:S1604v"(Make this anonymous inner class a lambda(¿øïö
+D
+java:S1604’"(Make this anonymous inner class a lambda(±æÿÚıÿÿÿÿ
+>
+java:S1604›"(Make this anonymous inner class a lambda(–§º
+?
+java:S1604Ç"(Make this anonymous inner class a lambda(ÑÂğ
+>
+java:S1604ä"(Make this anonymous inner class a lambda(–§º
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ü³®şÿÿÿÿ
+>
+java:S16598"#Declare "bHora" on a separate line.(ãŸÿÀøÿÿÿÿ
+>
+java:S16599"#Declare "eHora" on a separate line.(‹Ø—ÿÿÿÿÿ
+[
+java:S1659:"@Declare "mes" and all following declarations on a separate line.(—‘öôÿÿÿÿÿ
+m
+java:S1450:"RRemove the "ano" field and declare it as a local variable in the relevant methods.(—‘öôÿÿÿÿÿ
+m
+java:S1450:"RRemove the "dia" field and declare it as a local variable in the relevant methods.(—‘öôÿÿÿÿÿ
+n
+java:S1450:"SRemove the "hora" field and declare it as a local variable in the relevant methods.(—‘öôÿÿÿÿÿ
+m
+java:S1450:"RRemove the "mes" field and declare it as a local variable in the relevant methods.(—‘öôÿÿÿÿÿ
+q
+java:S1450:"VRemove the "minutos" field and declare it as a local variable in the relevant methods.(—‘öôÿÿÿÿÿ
+i	java:S100€"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°äÖèşÿÿÿÿ
+d
+java:S1854ˆ"HRemove this useless assignment to local variable "servicioSeleccionado".(œì›­ûÿÿÿÿ
+H
+java:S1172€",Remove this unused method parameter "vista".(°äÖèşÿÿÿÿ
+Q	java:S125‚"<This block of commented-out lines of code should be removed.(áÓöA
+O
+java:S1117†"8Rename "hora" which hides the field declared at line 58.(õä–
+U
+java:S1481ˆ"9Remove this unused "servicioSeleccionado" local variable.(œì›­ûÿÿÿÿ
+W	java:S125Ÿ"<This block of commented-out lines of code should be removed.(òîÒùÿÿÿÿ
+W	java:S125Ø"<This block of commented-out lines of code should be removed.(üº¢Şÿÿÿÿÿ
+R	java:S125İ"<This block of commented-out lines of code should be removed.(ÆÂŞü
+
+java:S1186æ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(£µ¢›ÿÿÿÿÿ

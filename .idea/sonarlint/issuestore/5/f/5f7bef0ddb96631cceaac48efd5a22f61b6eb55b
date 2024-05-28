@@ -1,0 +1,21 @@
+
+e	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅíÁz
+>
+java:S1604""(Make this anonymous inner class a lambda(Ì¬¿À
+C
+java:S1604)"(Make this anonymous inner class a lambda(òŠÛ£úÿÿÿÿ
+C
+java:S16040"(Make this anonymous inner class a lambda(‡ïïÛüÿÿÿÿ
+C
+java:S16047"(Make this anonymous inner class a lambda(·éäúÿÿÿÿ
+C
+java:S1604>"(Make this anonymous inner class a lambda(æƒŸúÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ü³®şÿÿÿÿ
+@
+java:S1659"*Declare "btnRegistrar" on a separate line.(áìÛ¯
+c	java:S100N"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÊ²‡
+B
+java:S1172N",Remove this unused method parameter "vista".(şÊ²‡
+c	java:S100["NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…²§ô
+B
+java:S1172[",Remove this unused method parameter "vista".(…²§ô

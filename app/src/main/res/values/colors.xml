@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_200">#FF000000</color>
+    <color name="black_500">#FF000000</color>
+    <color name="black_700">#FF000000</color>
+    <color name="purple_200">#50C2C9</color>
+    <color name="purple_500">#50C2C9</color>
+    <color name="purple_700">#50C2C9</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="purple">#8692f7</color>
+    <color name="botones">#E0C4FF</color>
+
+    <color name="lavender">#8692f7</color>
+
+    <color name="my_primary">#5E35B1</color>
+    <color name="my_secondary">#673AB7</color>
+
+    //ONBOARDING COLORS
+    <color name="background">#E1D6D8</color>
+    <color name="buttontext">#FF000000</color>
+
+    //indicator colors
+    <color name="inactive">#C4C4C4</color>
+    <color name="active">#50C2C9</color>
+</resources>

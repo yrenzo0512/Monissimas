@@ -1,0 +1,10 @@
+
+f
+java:S1104"PMake AUTH a static final constant or non-public and provide accessors if needed.(¥´±Ï
+@
+java:S1444"*Make this "public static AUTH" field final(¥´±Ï
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Í…ºà
+e
+java:S3008"ORename this field "AUTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥´±Ï
+P
+java:S1118":Add a private constructor to hide the implicit public one.(€èúÏ

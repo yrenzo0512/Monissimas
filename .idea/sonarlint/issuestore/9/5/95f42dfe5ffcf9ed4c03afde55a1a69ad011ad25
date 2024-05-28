@@ -1,0 +1,15 @@
+
+C
+java:S1604%"(Make this anonymous inner class a lambda(ÌûªÚûÿÿÿÿ
+>
+java:S16041"(Make this anonymous inner class a lambda(ÛŠ­†
+>
+java:S1604@"(Make this anonymous inner class a lambda(½ÔØÜ
+_
+java:S1659"DDeclare "nextbtn" and all following declarations on a separate line.(ôÄÖİÿÿÿÿÿ
+F
+java:S1874\"0Remove this use of "fromHtml"; it is deprecated.(ÎâÁ
+œ
+java:S1186g"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø´´øÿÿÿÿ
+œ
+java:S1186{"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Î«şÿÿÿÿ

@@ -1,0 +1,29 @@
+
+a	java:S112³"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+J
+java:S3740."/Provide the parametrized type for this generic.(“—éûşÿÿÿÿ
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ì¼§ù
+>
+java:S1604W"(Make this anonymous inner class a lambda(Ì¬¿À
+C
+java:S1604^"(Make this anonymous inner class a lambda(òŠÛ£úÿÿÿÿ
+C
+java:S1604e"(Make this anonymous inner class a lambda(‡ïïÛüÿÿÿÿ
+C
+java:S1604l"(Make this anonymous inner class a lambda(·éäúÿÿÿÿ
+>
+java:S1604~"(Make this anonymous inner class a lambda(ÑÂğ
+>
+java:S1604„"(Make this anonymous inner class a lambda(–§º
+D
+java:S1604«"(Make this anonymous inner class a lambda(˜ã¯şÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³ü³®şÿÿÿÿ
+q
+java:S14500"[Remove the "requestQueue" field and declare it as a local variable in the relevant methods.(©¯Í€
+m
+java:S14502"RRemove the "rv1" field and declare it as a local variable in the relevant methods.(Ê®†èûÿÿÿÿ
+G
+java:S1068.",Remove this unused "adapter2" private field.(“—éûşÿÿÿÿ
+O
+java:S1144K"4Remove this unused private "replaceFragment" method.(šóı øÿÿÿÿ
